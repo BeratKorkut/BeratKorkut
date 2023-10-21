@@ -15,9 +15,6 @@
 
 - 📫 How to reach me **korkutberat78@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/BeratKorkut?theme=unicorn)](https://leetcode.com/BeratKorkut/)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
